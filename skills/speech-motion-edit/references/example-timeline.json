@@ -1,0 +1,266 @@
+{
+  "header": "赛维时代  /  跨境架构拆解",
+  "source": "资料｜赛维时代 2023 年招股说明书",
+  "scenes": [
+    {
+      "start": 0,
+      "titles": [
+        {
+          "at": 0,
+          "text": "赛维时代",
+          "y": 481,
+          "size": 77,
+          "accent": false
+        },
+        {
+          "at": 1.05,
+          "text": "跨境电商上市公司",
+          "y": 591,
+          "size": 39,
+          "accent": false
+        }
+      ],
+      "counter": {
+        "at": 2.72,
+        "value": 566,
+        "unit": "家开店子公司",
+        "note": "招股说明书签署时披露口径"
+      }
+    },
+    {
+      "start": 4.63,
+      "titles": [
+        {
+          "at": 4.63,
+          "text": "海外卖货的钱，",
+          "y": 479,
+          "size": 60,
+          "accent": false
+        },
+        {
+          "at": 5.72,
+          "text": "怎么回到国内？",
+          "y": 566,
+          "size": 69,
+          "accent": true
+        }
+      ],
+      "layout": "chain",
+      "nodes": [
+        {
+          "at": 6.25,
+          "title": "境外销售",
+          "detail": "平台订单"
+        },
+        {
+          "at": 7.07,
+          "title": "？",
+          "detail": "回款"
+        },
+        {
+          "at": 7.78,
+          "title": "境内主体",
+          "detail": "资金入境"
+        }
+      ]
+    },
+    {
+      "start": 9.43,
+      "titles": [
+        {
+          "at": 9.43,
+          "text": "一张图，看懂三层架构",
+          "y": 470,
+          "size": 49,
+          "accent": false
+        }
+      ],
+      "layout": "stack",
+      "nodes": [
+        {
+          "at": 10.34,
+          "title": "股东层",
+          "detail": "谁持有"
+        },
+        {
+          "at": 11.47,
+          "title": "上市主体",
+          "detail": "谁承接资本运作"
+        },
+        {
+          "at": 12.72,
+          "title": "业务层",
+          "detail": "谁负责实际经营"
+        }
+      ]
+    },
+    {
+      "start": 15.1,
+      "titles": [
+        {
+          "at": 15.1,
+          "text": "01  股东层",
+          "y": 467,
+          "size": 52,
+          "accent": true
+        }
+      ],
+      "layout": "tree",
+      "root": {
+        "at": 16.8,
+        "title": "股东构成",
+        "detail": "上市前披露"
+      },
+      "nodes": [
+        {
+          "at": 18.45,
+          "title": "创始人团队",
+          "detail": "实控人及一致行动人"
+        },
+        {
+          "at": 19.77,
+          "title": "风投机构",
+          "detail": "外部投资"
+        },
+        {
+          "at": 21.01,
+          "title": "股权激励平台",
+          "detail": "有限合伙企业"
+        }
+      ]
+    },
+    {
+      "start": 25.13,
+      "titles": [
+        {
+          "at": 25.13,
+          "text": "02  上市主体",
+          "y": 466,
+          "size": 52,
+          "accent": true
+        }
+      ],
+      "layout": "tree",
+      "root": {
+        "at": 26.13,
+        "title": "赛维时代",
+        "detail": "SZ 301381",
+        "wide": true
+      },
+      "nodes": [
+        {
+          "at": 29.69,
+          "title": "对外联络",
+          "detail": ""
+        },
+        {
+          "at": 31.24,
+          "title": "资本运作",
+          "detail": ""
+        },
+        {
+          "at": 33.68,
+          "title": "归集资源",
+          "detail": ""
+        },
+        {
+          "at": 35.37,
+          "title": "规范治理",
+          "detail": ""
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.18,
+      "end": 2.34,
+      "text": "赛维时代，上市公司",
+      "accent": ""
+    },
+    {
+      "start": 2.7,
+      "end": 4.62,
+      "text": "名下",
+      "accent": "五百多家店铺公司"
+    },
+    {
+      "start": 4.65,
+      "end": 6.1,
+      "text": "那它的钱",
+      "accent": ""
+    },
+    {
+      "start": 6.13,
+      "end": 9.17,
+      "text": "到底是怎么",
+      "accent": "合规回到国内的？"
+    },
+    {
+      "start": 9.43,
+      "end": 11.68,
+      "text": "我把它的顶层架构画出来了",
+      "accent": ""
+    },
+    {
+      "start": 11.96,
+      "end": 14.68,
+      "text": "你会发现，其实就",
+      "accent": "三层"
+    },
+    {
+      "start": 15.1,
+      "end": 17.93,
+      "text": "最上面是资金层，也就是",
+      "accent": "股东层"
+    },
+    {
+      "start": 18.43,
+      "end": 20.59,
+      "text": "创始人团队、风投机构",
+      "accent": ""
+    },
+    {
+      "start": 20.93,
+      "end": 22.94,
+      "text": "还有他们采用有限合伙企业",
+      "accent": ""
+    },
+    {
+      "start": 22.95,
+      "end": 24.75,
+      "text": "设立的",
+      "accent": "股权激励平台"
+    },
+    {
+      "start": 25.11,
+      "end": 28.97,
+      "text": "中间层是赛维时代，也就是",
+      "accent": "上市主体"
+    },
+    {
+      "start": 29.65,
+      "end": 30.63,
+      "text": "它负责对外",
+      "accent": ""
+    },
+    {
+      "start": 31.21,
+      "end": 33.3,
+      "text": "核心功能是",
+      "accent": "资本运作"
+    },
+    {
+      "start": 33.68,
+      "end": 34.87,
+      "text": "归集资源",
+      "accent": ""
+    },
+    {
+      "start": 35.37,
+      "end": 37.86,
+      "text": "解决企业的规范性运作问题",
+      "accent": ""
+    }
+  ]
+}
